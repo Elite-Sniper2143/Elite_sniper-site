@@ -1,0 +1,10 @@
+
+  body {
+    background-color: black;
+  }
+  body {
+    background-image: url("space.gif");
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+  }
